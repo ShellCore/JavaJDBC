@@ -12,3 +12,4 @@ En éste repositorio se van a almaenar todos los ejercicios que se generon dentr
 4. Transacciones con JDBC
 5. Capa de datos con JDBC
 6. Laboratorio 2. Usuarios (Capa de datos con JDBC)
+7. Pool de conexiones
